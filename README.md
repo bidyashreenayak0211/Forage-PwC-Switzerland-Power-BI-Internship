@@ -33,7 +33,8 @@
 3. **Deliverable**:
    - Export the dashboard as an image to include in your submission.
    
-![Call Centre Dashboard](https://github.com/user-attachments/assets/577e21db-a5c6-48a4-96f2-d7b308d41e89)
+![Call Centre Dashboard](https://github.com/user-attachments/assets/6903ea10-bf7d-4119-9e13-a252cdafc0be)
+
 
 
 ---
@@ -78,9 +79,11 @@ Please let me know if you’d like me to make any adjustments or schedule a walk
 Best regards,  
 [Your Name]"*
 
-![Churn Dashboard](https://github.com/user-attachments/assets/d3ca0754-f0f0-4b13-9bef-c38df5962a33)
+![Churn Dashboard](https://github.com/user-attachments/assets/c3d63b79-8546-4f44-9737-64c6ce64a760)
 
-![Customer Risk Analysis Dashboard](https://github.com/user-attachments/assets/9f9586a7-05fb-4ee6-aece-1bb4dabc7f81)
+
+![Customer Risk Analysis Dashboard](https://github.com/user-attachments/assets/45699074-ed60-4601-bc17-a218471412af)
+
 
 
 ### **Task 4: Diversity and Inclusion Dashboard**
@@ -166,13 +169,14 @@ After analyzing the data, reflect on the organization's slow progress in diversi
 **Example Summary**:
 *"The Diversity and Inclusion dashboard reveals key areas of concern: promotion rates for underrepresented groups are disproportionately low, and turnover rates are higher in these demographics. Additionally, performance ratings and training participation show disparities, indicating unequal access to opportunities for growth. Root causes may include unconscious bias, inequities in development programs, and a lack of diverse representation in leadership roles. To address these challenges, I recommend implementing targeted mentorship programs, bias training, and measurable diversity goals tied to leadership accountability. The visualizations provide actionable insights to track progress effectively."*
 
-![Diversity and Inclusion Dashboard 1](https://github.com/user-attachments/assets/ee6c5f1a-1090-45bf-b23b-d458eb97cae6)
+![Diversity and Inclusion Dashboard 1](https://github.com/user-attachments/assets/d11b2d52-73da-4d3b-b317-8a8a1df342a2)
 
-![Diversity and Inclusion Dashboard 2](https://github.com/user-attachments/assets/78f16ec1-6470-41ae-ad25-f3126ee0210b)
+![Diversity and Inclusion Dashboard 2](https://github.com/user-attachments/assets/faee7d26-b6c4-4724-b8c7-e4ca51140952)
 
 
 ---
 
 ### Certificate of Completion
 
-![image](https://github.com/user-attachments/assets/ed3fe784-fde2-412e-9cb6-18898e4ed968)
+![image](https://github.com/user-attachments/assets/1fc42f21-2842-45a4-ba9c-fce6da903ee4)
+
